@@ -1,7 +1,7 @@
 ## h5p-LET-GenEd-Math-001
 [h5p-LET-GenEd-Math-001](https://github.com/justineuro/h5p-LET-GenEd-Math-001) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  More information on H5P may be found at [https://h5p.org](https://h5p.org).
 
-The file [`LETReview-GenEd-Math-001.html`](./LETReview-GenEd-Math-001.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-LET-GenEd-Math-001/LETReview-GenEd-Math-001.html")) contains a simple H5P that uses the [Question Set H5P template](https://h5p.org/question-set) to generate a set of 30 single-choice multiple-choice questions in math.
+The file [`LETReview-GenEd-Math-001.html`](./LETReview-GenEd-Math-001.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-LET-GenEd-Math-001/LETReview-GenEd-Math-001.html)) contains a simple H5P that uses the [Question Set H5P template](https://h5p.org/question-set) to generate a set of 30 single-choice multiple-choice questions in math.
   
 This folder includes (among others):  
   
